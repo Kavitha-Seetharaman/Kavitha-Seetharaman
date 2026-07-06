@@ -26,8 +26,10 @@ Currently deepening expertise across the full data analyst stack — SQL, Tablea
 
 ## Featured Projects
 
-- 🛒 [Retail Sales & Customer Analytics](https://github.com/Kavitha-Seetharaman/Retail-Sales-PowerBI-Dashboard) — Star schema model, RLS, custom tooltips, regional KPIs
-- 📉 [Customer Churn Analysis](https://github.com/Kavitha-Seetharaman/Customer-churn-analysis-powerbi) — Python EDA + Power BI dashboard on telecom churn drivers
+- 🛒 [Online Retail Store Analysis](https://github.com/Kavitha-Seetharaman/Online-RetailStore-Analysis) — Quadrant analysis identifying 11 high-revenue low-margin products | Power BI • SQL
+- 🏪 [Walmart Crisis Dashboard](https://github.com/Kavitha-Seetharaman/Walmart---Retail-Sales-Dashboard) — Store risk classification into Stable/Moderate/High Risk tiers | Power BI • SQL
+- 📉 [Customer Churn Analysis](https://github.com/Kavitha-Seetharaman/Customer-churn-analysis-powerbi) — Python EDA + Power BI dashboard on churn drivers | Python • Power BI
+- 📊 [Retail Sales Dashboard](https://github.com/Kavitha-Seetharaman/Retail-Sales-PowerBI-Dashboard) — Star schema, RLS implementation, custom tooltips | Power BI • SQL
 
 ---
 
