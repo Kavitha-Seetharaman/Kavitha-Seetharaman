@@ -20,7 +20,7 @@ Currently deepening expertise across the full data analyst stack — SQL, Tablea
 | Dashboards & BI Reporting | Power BI, DAX, Power Query, Excel |
 | Data Modeling | Star Schema, Relationships, RLS |
 | Data Analysis | SQL, Python (Pandas, NumPy) |
-| Visualization | Tableau (in progress) |
+| Visualization | Power BI, Tableau |
 
 ---
 
@@ -43,4 +43,5 @@ Currently deepening expertise across the full data analyst stack — SQL, Tablea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavithaseetharaman-blue)](https://www.linkedin.com/in/kavithaseetharaman)
 📧 kavi.sahha@gmail.com
+🌐 [Portfolio](https://kavitha-seetharaman.github.io)
 
